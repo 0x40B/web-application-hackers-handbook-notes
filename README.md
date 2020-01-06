@@ -5,7 +5,7 @@ These are my own personal notes of what I found useful, not an entire summary of
 
 ## Chapters
 1. [Web Application (In)security](01-web-app-insecurity/README.md)
-2. [Core Defense Mechanisms]()
+2. [Core Defense Mechanisms](02-core-defense-mechanisms/README.md)
 3. [Web Application Technologies]()
 4. [Mapping the Application]()
 5. [Bypassing Client-Side Controls]()
